@@ -190,6 +190,6 @@ func main() {
 	// defer f.Close()
 
 	// n, err := f.WriteString(jsStr)
-	// fmt.Printf("wrote %d bytes/n", n)
+	// fmt.Printf("wrote %d bytes\n", n)
 	// f.Sync()
 }

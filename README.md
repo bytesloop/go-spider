@@ -12,3 +12,7 @@
 ### 第 3 题 AAEncode 加密 - 初体验 —— [代码](https://github.com/dotvue/go-spider/blob/main/wangluozhe/03/main.go) 答案：5022790
 
 - crypto-js 下载：https://www.jsdelivr.com/package/npm/crypto-js
+
+### 第 4 题 JSFuck 加密 - 初体验 —— [代码](https://github.com/dotvue/go-spider/blob/main/wangluozhe/04/main.go) 答案：5042028
+
+- 在 notepad 中选中最后一个括号，找到匹配的左括号，把里面的 JSFuck 代码复制出来放到浏览器调试窗口中就能得到明文代码

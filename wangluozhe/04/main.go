@@ -55,7 +55,7 @@ func get_signature(page int) int {
 	req.Header.Add("Origin", "http://spider.wangluozhe.com")
 	req.Header.Add("Referer", "http://spider.wangluozhe.com/challenge/4")
 	req.Header.Add("Accept-Language", "en,zh-CN;q=0.9,zh;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-TW;q=0.5")
-	req.Header.Add("Cookie", "session=471139e1-70ec-4ca9-913d-55e0f37df351.pq83FUhPKwWsQuUsqGitoV9PYUE")
+	req.Header.Add("Cookie", "session=067ab14c-6782-492d-b896-dcfe84af7d8e.OMiVVCs55dHWTPWE9vCb4AzSVj4")
 
 	res, err := client.Do(req)
 	check(err)

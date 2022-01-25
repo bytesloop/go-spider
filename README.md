@@ -18,3 +18,13 @@
 - 在 notepad 中选中最后一个括号，找到匹配的左括号，把里面的 JSFuck 代码复制出来放到浏览器调试窗口中就能得到明文代码
 
 ### 第 5 题 控制台反调试 - 初体验 —— [代码](https://github.com/dotvue/go-spider/blob/main/wangluozhe/05/main.go) 答案：32179a4292bb916b3df27aabd504651e
+
+- 1.js：解密后的代码
+- 2.js：需要浏览器在 http://spider.wangluozhe.com/ 网站下控制台中执行，可得到答案
+
+### JS 加密 - 环境模拟检测 —— [代码](https://github.com/dotvue/go-spider/blob/main/wangluozhe/06/main.go) 答案：5108936
+
+- 1.js：网站原代码
+- 2.js：解密 1.js 可以得到 3.js
+- 3.js：解密后代码
+- 4.js：抠出来的代码，可以直接 v8 运行
